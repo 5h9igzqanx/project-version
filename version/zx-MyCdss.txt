@@ -1,2 +1,2 @@
-0.1.4-beta
+0.1.6-beta
 https://github.com/5h9igzqanx/zx-MyCdss/releases/download/0.1.4-%CE%B2/zx-MyCdss.0.1.4-beta.exe
